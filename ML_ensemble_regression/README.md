@@ -1,5 +1,3 @@
-
-##(3)ML_ensemble_regression
+## (3) ML_ensemble_regression
 A DVD rental company needs your help! They want to determine how many days a customer will rent a DVD for based on certain features and have approached you for help. They want you to try out some regression models, which will help predict the number of days a customer will rent a DVD for. The company wants a model that yields an MSE of 3 or less on a test set. The model you make will help the company become more efficient in its inventory planning. <br/>
 To solve the issue, I utilized RandomForestRegressor, gradient boosting, and adaptive boosting for Ridge models.     
-

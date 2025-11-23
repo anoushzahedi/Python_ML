@@ -1,2 +1,2 @@
-## (4) ML_RandomForest
+# (4) ML_RandomForest
 International Essentials is an international supermarket chain. Shoppers at their supermarkets can sign up for a loyalty program that provides rewards each year to customers based on their spending. The more you spend, the bigger the rewards. The supermarket would like to be able to predict the likely amount customers in the program will spend so that they can estimate the cost of the rewards. This will help them to predict the potential profit at the end of the year. I used RandomForest and GrdientBoosting to solve the task. 

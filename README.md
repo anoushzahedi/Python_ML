@@ -33,3 +33,10 @@ Next month, our most experienced sales team member will be retiring. They have b
 
 ## (8) [ML_london_weather_MLflow](ML_london_weather_MLflow/)
 As the climate changes, predicting the weather becomes ever more important for businesses. Since the weather depends on a lot of different factors, you will want to run a lot of experiments to determine what the best approach is to predict the weather. In this project, you will run experiments for different regression models predicting the mean temperature, using a combination of sklearn and MLflow.
+## (9) [ML_churn_prediction_xgboost](ML_churn_prediction/)
+
+A telecommunications company wants to predict which customers are likely to leave their service (churn). By identifying at-risk customers early, the company can take proactive measures to retain them, such as offering discounts, improved service, or personalized outreach.
+Preprocess the data (handle missing values, encode categorical variables)
+- Build an XGBoost model to predict customer churn
+- Optimize the model for business impact (prioritize catching churners)
+- Interpret results to provide actionable insights to the business team
